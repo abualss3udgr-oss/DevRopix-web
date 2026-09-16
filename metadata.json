@@ -1,0 +1,6 @@
+{
+  "name": "DevRopix - Digital Product Studio",
+  "description": "Official website and admin management platform for DevRopix, a modern software and digital product studio specializing in web development, mobile apps, UI/UX design, and enterprise solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
